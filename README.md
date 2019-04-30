@@ -2,10 +2,7 @@
 
 ## **Description**
 
-In This project I will demonstrate how to use 
-Machine Learning Algorithms -Recurrent Neural Networks 
-[using Tensorflow KERAS] - to do time series analysis, in partucilar:
-Bitcoin Price Prediction.
+This is a few examples of modern designs of the front-end.
 
 ## **Getting Started**
 
