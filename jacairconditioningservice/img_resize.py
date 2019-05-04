@@ -1,5 +1,5 @@
 from PIL import Image
-improt os
+import os
 size = (450, 450)
 infile_path = 'C:/Users/Lungile Madi/Documents/programming/work/jacairconditioningservice/img_desktop/'
 infile_name = 'IMG-20190415-WA0026.jpg'
